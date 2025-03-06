@@ -31,14 +31,6 @@
 
 ---
 
-## 🔍 关键洞见
-- **原理层级关系**：  
-  MEPP > Onsager 线性热力学 > Prigogine 最小熵产生原理。  
-- **矛盾解析**：  
-  MEPP 主导快速动力学过程；Prigogine 原理适用于近平衡稳态。  
-
----
-
 ## 📖 必读文献
 ### **理论基础**
 - Ziegler, H. (1963). *Progress in Solid Mechanics*（热力学形式化框架）。  
